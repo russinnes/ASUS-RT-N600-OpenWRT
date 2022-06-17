@@ -1,5 +1,5 @@
 # ASUS-RT-N600-OpenWRT
-OpenWRT Build for the ASUS N600 router
+OpenWRT Build (22) for the ASUS N600 router
 
 This binary firmware is for the Asus RT-N600 Router and contains OpenWrt SNAPSHOT r19805-574539ee2c / LuCI Master git-22.167.28356-8effea5
 
