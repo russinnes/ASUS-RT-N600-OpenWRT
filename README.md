@@ -8,7 +8,7 @@ Flashing from Padavan (If you are running my previous build) will not work.
 A google search of Asus firmware restoration, using their tool will point you to it. 
 Essentially, set a static IP in the 192.168.1.10+ range, power on the device while holding 
 reset (LED will flash), then run the restore tool, selecting the image you want to flash (in this case, 
-the OpenWTF .squashfs sysupgrade image for most folks).
+the OpenWRT .squashfs sysupgrade image for most folks).
 
 Everything is working except for the 5g WiFi LED. I'll keep plugging away at it. 
 
