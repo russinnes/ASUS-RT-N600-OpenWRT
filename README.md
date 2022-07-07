@@ -15,10 +15,7 @@ Everything is working except for the 5g WiFi LED. I'll keep plugging away at it.
 ** NOTE **
 There is also the image for the AC1200 here, which works on the RT-N600 including the 5g LED
 However - It's a snapshot without Luci; so;
--SSH into the box (root@192.168.1.1)
--opkg update;
--opkg install luci
--tada
+-SSH into the box (root@192.168.1.1);opkg update;opkg install luci;
 
 
 I plan to commit this board and the associated configs to the OpenWRT master when I get some more time. 
